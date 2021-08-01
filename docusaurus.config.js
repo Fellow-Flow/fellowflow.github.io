@@ -9,7 +9,7 @@
 
 module.exports = {
   title: 'Fellow-Flow',
-  tagline: 'Company Communications',
+  tagline: 'Global Corporate Communications',
   url: 'https://fellow-flow.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -22,7 +22,7 @@ module.exports = {
       title: 'Fellow-Flow',
       logo: {
         alt: 'FF-Logo',
-        src: 'img/fellow-flow_logo.png',
+        src: 'img/logo.png',
       },
       items: [
         {
