@@ -9,7 +9,7 @@
 
 module.exports = {
   title: 'Fellow-Flow',
-  tagline: 'Knowledge Platform',
+  tagline: 'Company Communications',
   url: 'https://fellow-flow.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -21,7 +21,7 @@ module.exports = {
     navbar: {
       title: 'Fellow-Flow',
       logo: {
-        alt: 'Fellow-Flow Logo',
+        alt: 'FF-Logo',
         src: 'img/fellow-flow_logo.png',
       },
       items: [
